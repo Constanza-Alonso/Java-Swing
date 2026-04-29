@@ -1,8 +1,12 @@
+
+
 build/
+target/
 dist/
 *.class
 .DS_Store
 nbproject/private/
+
 
 
 
